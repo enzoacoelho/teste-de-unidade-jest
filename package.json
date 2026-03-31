@@ -1,0 +1,25 @@
+{
+  "name": "teste-de-unidade-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzoacoelho/teste-de-unidade-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/enzoacoelho/teste-de-unidade-jest/issues"
+  },
+  "homepage": "https://github.com/enzoacoelho/teste-de-unidade-jest#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0"
+  }
+}

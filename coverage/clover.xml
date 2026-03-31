@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1774981667728" clover="3.2.0">
+  <project timestamp="1774981667728" name="All files">
+    <metrics statements="29" coveredstatements="29" conditionals="21" coveredconditionals="21" methods="8" coveredmethods="8" elements="58" coveredelements="58" complexity="0" loc="29" ncloc="29" packages="1" files="5" classes="5"/>
+    <file name="acesso-evento.js" path="C:\CURSO\teste-de-unidade-jest\src\acesso-evento.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="calculadora.js" path="C:\CURSO\teste-de-unidade-jest\src\calculadora.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="impar-ou-par.js" path="C:\CURSO\teste-de-unidade-jest\src\impar-ou-par.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="pode-votar.js" path="C:\CURSO\teste-de-unidade-jest\src\pode-votar.js">
+      <metrics statements="4" coveredstatements="4" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <line num="10" count="11" type="cond" truecount="5" falsecount="0"/>
+      <line num="20" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="verificar-idade.js" path="C:\CURSO\teste-de-unidade-jest\src\verificar-idade.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
